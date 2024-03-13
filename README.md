@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Machine learning and Pentesting
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HE/Him
+- ⚡ Fun fact: Love gaming and learning new technologies
 
 <!---
 SameedKhan30/SameedKhan30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
